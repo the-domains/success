@@ -1,0 +1,14 @@
+layout_spectrum: 0.7902466871310025
+typography_spectrum: 0.0488030225969851
+color:
+  brandStrength: 0.03827256290242076
+  lightness: 0.004276990424841642
+  saturation: 0.04300191951915622
+  rhythmicContrast: 0.277973803691566
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Success

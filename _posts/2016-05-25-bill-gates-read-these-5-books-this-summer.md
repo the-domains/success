@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.usatoday.com/story/money/markets/2016/05/20/bill-gates-read-these-5-books-summer/84675556/'
 title: 'Bill Gates: Read these 5 books this summer'
-datePublished: '2016-05-25T10:58:30.897Z'
-dateModified: '2016-05-25T10:58:07.160Z'
-starred: false
+datePublished: '2016-05-25T11:55:07.025Z'
+dateModified: '2016-05-25T11:55:06.555Z'
 sourcePath: _posts/2016-05-25-bill-gates-read-these-5-books-this-summer.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false

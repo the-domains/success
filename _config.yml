@@ -4,17 +4,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.6738351
 color:
-  saturation: 0.04300192
+  saturation: 0
   brandStrength: 0.03827256290242076
-  lightness: 0.00427699
+  lightness: 0
   brandColors:
     - '#000000'
     - '#263248'
@@ -22,5 +21,6 @@ color:
     - '#FFFFFF'
     - '#FF9800'
   rhythmicContrast: 0
-layout_spectrum: 0.7902466871310025
+typography_spectrum: 0.6738351
+layout_spectrum: 0.8185635
 name: Success
